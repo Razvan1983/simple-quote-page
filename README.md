@@ -1,4 +1,5 @@
 # simple-quote-page
 
 Primul commit
-al doilea commit
+
+urmatoarea modificare in Brakets dupa o stergere
